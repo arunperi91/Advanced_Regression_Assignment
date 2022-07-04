@@ -17,12 +17,7 @@ The analysis should help the company recognize the important factors which are a
 For the prediction part, Lasso and Regression techniques have been used to see the most important variables which are affeting the sales price.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- The optimal value of alpha for the Lasso regression is obtained as 0.001 and for the Ridge regression it is 0.1.
-- We have chosen the Lasso model with optimum alpha value as 0.001 or lambda value as 1000. We are getting better test R2 score with a simpler model as the lambda value is very high.
 
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -31,15 +26,20 @@ For the prediction part, Lasso and Regression techniques have been used to see t
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
+
+
+## Conclusions
+- The optimal value of alpha for the Lasso regression is obtained as 0.001 and for the Ridge regression it is 0.1.
+- We have chosen the Lasso model with optimum alpha value as 0.001 or lambda value as 1000. We are getting better test R2 score with a simpler model as the lambda value is very high.
+
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+I thank Upgrad for providing the data set and guiding me through the process by providing necessary resources.
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+
 
 
 <!-- Optional -->
