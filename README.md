@@ -26,7 +26,7 @@ For the prediction part, Lasso and Regression techniques have been used to see t
 
 
 ## Technologies Used
-- Jupyter NoteBook - version 6.3.0
+- Jupyter NoteBook - version 6.4.5
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
