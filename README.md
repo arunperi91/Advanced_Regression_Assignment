@@ -1,6 +1,6 @@
 # Adanced Linear Regression
-> A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia.
-> So, the regression analysis has been performed on the dataset to see the most important variables affecting the sales price.
+A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia.
+So, the regression analysis has been performed on the dataset to see the most important variables affecting the sales price.
 
 
 ## Table of Contents
@@ -13,8 +13,8 @@
 
 ## General Information
 Understand and analyse the data to identify the driving factors behind sales price of the houses so that the company can utilize this knowledge for its price prediction model.
-The analysis should help the company recognize the important factors which are affectin the sales prioce of the houses.
-For the prediction part, Lasso and Regression techniques have been used to see the most important variables which are affeting the sales price.
+The analysis helps the company recognize the important factors which are affecting the sales price of the houses.
+For the prediction part, Lasso and Regression techniques have been used to see the most important variables which are affecting the sales price.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
